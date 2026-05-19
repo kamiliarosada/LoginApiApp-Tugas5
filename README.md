@@ -9,13 +9,13 @@ NIM: F1D02310063
 
 ### Halaman Login
 
-- ![tampilan awal](screenshots/tampilan awal.JPEG)
+- ![tampilan awal](screenshots/tampilan_awal.JPEG)
 
-- ![peringatan username dan password harus diisi](screenshots/peringatan 1.JPEG)
+- ![peringatan username dan password harus diisi](screenshots/peringatan1.JPEG)
 
-- ![username dan password terisi](screenshots/peringatan 2.JPEG)
+- ![username dan password terisi](screenshots/peringatan2.JPEG)
 
-- ![username atau password salah](screenshots/peringatan 3.JPEG)
+- ![username atau password salah](screenshots/peringatan3.JPEG)
 
 ### Proses Loading Login
 ![Loading](screenshots/loading.JPEG)
